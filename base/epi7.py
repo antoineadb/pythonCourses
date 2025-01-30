@@ -1,5 +1,5 @@
-from model.Player import Player
-from model.weapon import Weapon
+from base.model.Player import Player
+from base.model.weapon import Weapon
 
 knife = Weapon("Couteau",3)
 

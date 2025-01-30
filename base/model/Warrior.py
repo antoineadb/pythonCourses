@@ -1,4 +1,4 @@
-from model.Player import Player
+from base.model.Player import Player
 
 
 class Warrior(Player):
